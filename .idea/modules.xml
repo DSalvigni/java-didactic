@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Hello-Nandlal/Hello-Nandlal.iml" filepath="$PROJECT_DIR$/Hello-Nandlal/Hello-Nandlal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deadlock/deadlock.iml" filepath="$PROJECT_DIR$/deadlock/deadlock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/increment/increment.iml" filepath="$PROJECT_DIR$/increment/increment.iml" />
+    </modules>
+  </component>
+</project>
